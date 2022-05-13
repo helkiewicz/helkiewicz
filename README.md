@@ -3,7 +3,7 @@ I'm currently a student of the University of Gdansk, Faculty of Informatics and 
 
 
 <p align='center'>
-   <a href="www.linkedin.com/in/helkiewicz">
+   <a href="https://www.linkedin.com/in/helkiewicz/">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
    <a href="https://t.me/helkiewicz">
